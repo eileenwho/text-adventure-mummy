@@ -1,0 +1,262 @@
+You are woken up by a loud crash. You, sit up, disoriented, then lie back down and try to go back to sleep. Some moments pass, then a steady rumbling noise starts up from somewhere above you.
+You try telling yourself to just ignore it but the sound worries at the edges of your consciousness, sometimes receding until you start to hope that it has stopped, before roaring back to life again.
+You get up, attempt to stretch your stiff limbs. Nothing is going to get done if you don't investigate and the noise is getting on your nerves.
+You can try:
+look around
+go {direction}
+take {object}
+inspect {object}
+inventory
+use {object}
+use {object} on {object}
+help
+>look around
+You are in a small chamber. Everything is covered in dust and the air is musty. Without the benefit of torchlight it's dark but you know this room pretty well.
+There is a dark opening in the north wall.
+There are/is a unlit torch here.
+There are/is a firestarter here.
+
+>inventory
+You have:
+compass
+
+>take firestarter
+You have picked up (a) firestarter.
+
+>take unlit torch
+You have picked up (a) unlit torch.
+
+>use firestarter on unlit torch
+Let there be light. You now have a lit torch.
+>inventory
+You have:
+compass
+lit torch
+
+>go north
+You go through the opening in the north wall.
+You are in a nondescript room with nondescript writing on the walls.
+There is a dark opening in the west wall.
+There is a dark opening in the south wall.
+There is a dark opening in the north wall.
+
+>go west
+You go through the opening in the west wall.
+You are in what appears to be a storeroom. There are many items stacked neatly along the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a bowls here.
+There are/is a clay pots here.
+There are/is a stone jars here.
+There are/is a dishes here.
+There are/is a bread here.
+There are/is a coil of rope here.
+
+>inspect bread
+You try some bread. It is rock hard and not very appetizing.
+
+>inspect clay pots
+These pots look like they would be useful for storage. Though most of them do look leaky.
+
+>inspect bowls
+These are large ornately decorated bowls.
+
+>take bowls
+You have picked up (a) bowls.
+
+>take coil of rope
+You have picked up (a) coil of rope.
+
+>go west
+You go through the opening in the west wall.
+You are in what appears to be a storeroom. There are many items stacked haphazardly around the room.
+There is a dark opening in the east wall.
+There are/is a couch here.
+There are/is a cushions here.
+There are/is a chair here.
+There are/is a bundles of reeds here.
+There are/is a pole here.
+
+>inspect couch
+You sit down ojn the couch for a bit. But the rumbling noise is still getting to you.
+
+>inspect cushions
+You sprawl over the cushions for a few moments. You are not able to relax though, because of the rumbling noise.
+
+>inspect bundle of reeds
+This object is not in the room or in your inventory. Try something else.
+>inspect bundles of rees
+This object is not in the room or in your inventory. Try something else.
+>inspect bundles of reeds
+On closer inspection, the bundles of reeds seem to have formerly been part of a boat. Some bundles are still lashed together but many have fallen from the main structure.
+
+>use coil of rope on bundles of reeds
+You tie up the bundles of reeds into something approximating riverworthiness. Not a beautiful boat but it looks like it will do the job. At least it does not look heavy. You now have a boat.
+>take pole
+You have picked up (a) pole.
+
+>inventory
+You have:
+compass
+lit torch
+bowls
+boat
+pole
+
+>go east
+You go through the opening in the east wall.
+You are in what appears to be a storeroom. There are many items stacked neatly along the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a clay pots here.
+There are/is a stone jars here.
+There are/is a dishes here.
+There are/is a bread here.
+
+>go east
+You go through the opening in the east wall.
+You are in a nondescript room with nondescript writing on the walls.
+There is a dark opening in the west wall.
+There is a dark opening in the south wall.
+There is a dark opening in the north wall.
+
+>go north
+You go through the opening in the north wall.
+You are in a nondescript room with nondescript writing on the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the south wall.
+There is a dark opening in the north wall.
+
+>go east
+You go through the opening in the east wall.
+A vast pool stretches before you, with only a small strip of land near the entryway. The water is vibrating gently. You can faintly make out a dark opening on the far side. There are footprints in the sand.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a water here.
+
+>to east
+You can't do that. Try something else.
+>go east
+You sally forth grandly across the pool, a heroic figure out to discover new worlds, paddling the boat with your hands. You make slow but steady progress and eventually make it to the other side. You drag your boat onto the shore.
+
+You go through the opening in the east wall.
+The room is lit by a wall of fire stretching across the width of the chamber. You vaguely wonder how the fire is being fueled but are quickly distracted by the a tongue of flame that leaps a little too close to you. It is getting hot in here.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a fire here.
+
+>go east
+You cannot cross the room right now. Try something else.
+>go west
+You go through the opening in the west wall.
+A vast pool stretches before you, with only a small strip of land near the entryway. The water is vibrating gently. You can faintly make out a dark opening on the far side. There are footprints in the sand.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a water here.
+
+>use bowls on water
+You scoop up some water from the pool into a bowl.
+>go east
+You go through the opening in the east wall.
+The room is lit by a wall of fire stretching across the width of the chamber. You vaguely wonder how the fire is being fueled but are quickly distracted by the a tongue of flame that leaps a little too close to you. It is getting hot in here.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a fire here.
+
+>go east
+You toss some water from your bowl at the fire. It immediately goes out.
+You go through the opening in the east wall.
+You are in a chamber with a rectangular chamber with faded paintings on the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a scroll here.
+
+>inspect scroll
+You open the papyrus scroll. The scroll consists of a series of spells to help assist the journery of a soul through the underworld into the afterlife. You skim the collection and recognize some classics like the Weighing of the Heart ritual. Pity that you do not have a handsbreath of magic in you. That whole " getting through to the eternal afterlife " thing is only for royalty anyway.
+
+>go east
+You go through the opening in the east wall.
+You are in a large hall with pillars on either side of a walkway leading up to a large throne. The walls and pillars are carved with noble profiles staring regally down at you. They seem almost alive, as if at any minute a queen will step down and order you to go fetch her a snack.
+
+There is a dark opening in the west wall.
+There is a dark opening in the north wall.
+
+>go north
+You go through the opening in the north wall.
+You blink and details of the room emerge slowly from the mist, strange animals, statues and gold – everywhere the glint of gold. For the moment – an eternity it seems – you are struck dumb with amazement. You see wonderful things.
+
+There is a dark opening in the south wall.
+There are/is a animals here.
+There are/is a statues here.
+There are/is a gold here.
+
+>inspect animals
+Small carved wooden animals fill the chamber. The look worn and well-loved, some with paint peeling and some with broken legs or ears.
+
+>inspect statues
+There are statues of varying sizes around the room. You see a chaotic mix of household gods, figures of ordinary people ranging from children to grandparents, and abstract lumps of clay.
+
+>inspect gold
+The gold from numerous paintings glints in the light of your torch. They are not executed by the steadiest hand, but are hung carefully around the room. There are also cabinets painted in gold that house small trinkets like woven bracelets and letters.
+
+>go south
+You go through the opening in the south wall.
+You are in a large hall with pillars on either side of a walkway leading up to a large throne. The walls and pillars are carved with noble profiles staring regally down at you. They seem almost alive, as if at any minute a queen will step down and order you to go fetch her a snack.
+
+There is a dark opening in the west wall.
+There is a dark opening in the north wall.
+
+>go west
+You go through the opening in the west wall.
+You are in a chamber with a rectangular chamber with faded paintings on the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a scroll here.
+
+>go west
+You go through the opening in the west wall.
+The room is lit by a wall of fire stretching across the width of the chamber. You vaguely wonder how the fire is being fueled but are quickly distracted by the a tongue of flame that leaps a little too close to you. It is getting hot in here.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a fire here.
+
+>go west
+You toss some water from your bowl at the fire. It immediately goes out.
+You go through the opening in the west wall.
+A vast pool stretches before you, with only a small strip of land near the entryway. The water is vibrating gently. You can faintly make out a dark opening on the far side. There are footprints in the sand.
+
+There is a dark opening in the east wall.
+There is a dark opening in the west wall.
+There are/is a water here.
+
+>go west
+You sally forth grandly across the pool, a heroic figure out to discover new worlds, paddling the boat with your hands. You make slow but steady progress and eventually make it to the other side. You drag your boat onto the shore.
+
+You go through the opening in the west wall.
+You are in a nondescript room with nondescript writing on the walls.
+There is a dark opening in the east wall.
+There is a dark opening in the south wall.
+There is a dark opening in the north wall.
+
+>go north
+You go through the opening in the north wall.
+A giant pit yawns open in the center of the chamber. As you cautiously peer into the depts of the pit, you can see spikes along the walls of the pit and the bottom. The spikes are covered in spiders.
+There is a dark opening in the south wall.
+There is a dark opening in the north wall.
+
+>go north
+You pole vault gracefully across the pit.
+You go through the opening in the north wall.
+You see a strange group of people standing in the center of the dimly lit room, arguing. They seem foreign and very confused. Your natural ability with languages allows you to understand their conversation within a few minutes and you quietly approach them, putting your hand on the shoulder of the person nearest to you. It looks like they are in need of some assistance and you tell them so.
+The man turns around, shrieks and clutches the arm of the woman standing next to him. She stares you down and asks if you are offering that assistance.
+You were headed up anyway since that is where the noise seems to be coming from, and you are a generous person so you figure why not help them out? You manage to navigate them to the exit without any more mishap.They seem a bit battered and are extremely flustered but you get part of their story on the way. It turns out your initial assessment was correct. They had entered the pyramid in search of uncountable treasures but had gotten lost almost right away. Looks like they had been warned by the locals too. Classic tourists, but pretty harmless as these things go.
+Once you arrive at your destination, you discover that the final room boasts a gaping hole where there had formerly been a nice solid wall. More to the point, this seems to be the source of the noise. One of the foreigners sheepishly mentions that they be a bit aggressive be able to fit everyone in through the entrance. You do not bother glancing outside because it is very bright outside and all that really matters is that you know how to fix your problem now. After sending the group off on their merry way, you go find some stones to wall off the hole.
+Satisfied with your work, you head back down. You find the room you started in, and finally get to rest in peace.
+There is a dark opening in the south wall.
+
+What do you do next?

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Mummy Adventure</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  
+  background-color: black;
+  color: rgb(247, 204, 63);
+}
+
+</style>
+</head>
+<body>
+
+<p id="storyOutput"> You are woken up by a loud crash. You, sit up, disoriented, then lie back down and try to go back to sleep. Some moments pass, then a steady rumbling noise starts up from somewhere above you.
+  You try telling yourself to just ignore it but the sound worries at the edges of your consciousness, sometimes receding until you start to hope that it has stopped, before roaring back to life again.
+  You get up, attempt to stretch your stiff limbs. Nothing is going to get done if you don't investigate and the noise is getting on your nerves. <br>
+  You can try: <br>
+  look around <br>
+  go {direction} <br>
+  take {object} <br>
+  inspect {object} <br>
+  inventory <br>
+  use {object} <br>
+  use {object} on {object} <br>
+  help </p>
+
+<!--
+<form id="submitCommand" method="post">
+What do you do next? <br>
+<input type="text" id="commandText" name ="commandText"><br>
+<input type="submit" value="Submit">
+</form>
+-->
+<script src="scripts/main.js"></script>
+<p id="prompt">What do you do next? </p>
+<input type="text" id="command">
+<input type="button" value="Submit" onclick="runCommand(document.getElementById('command').value)">
+
+
+</body>
+</html>
